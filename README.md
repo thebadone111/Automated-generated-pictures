@@ -1,3 +1,5 @@
+This is an old project where I automated the creation of pictures on a runpod using AUTOMATIC1111 pod setup. I also worked a bit on automating the setup of the runpod itself but did not finish it. 
+
 Setup:
 
 Move the python files into a folder.
